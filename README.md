@@ -2,9 +2,10 @@ PDFImagine is a PDF to Image (any image) conversion tool written in NodeJS for s
 
 License:
 
-Please include credit to creator in any reuse of application:
+Please include credit to creator in any reuse of application, as well as a link to this github link:
 
 Rocco Castoro
 roccavincent@gmail.com
+GIT: https://github.com/rcastoro/PDFImagine
 
 Thanks!!
